@@ -9,8 +9,8 @@
 <p align="center">
 	<br/> &nbsp;
 	<a href="https://github.com/nuri147">
-        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=nuri147&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="nuri147" height="170em"/>
-        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nuri147&show_icons=true&locale=en&theme=midnight-purple&include_all_commits=true&count_private=true" alt="nuri147" height="170em"/>
+        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=nuri147&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="nuri147" height="170em"/>
+        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nuri147&show_icons=true&locale=en&theme=blue-green&include_all_commits=true&count_private=true" alt="nuri147" height="170em"/>
 	</a>
 </p>
 
