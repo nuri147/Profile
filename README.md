@@ -8,10 +8,10 @@
 ## Statistics Preview
 <p align="center">
 	<br/> &nbsp;
-	<a href="https://github.com/nuri147">
-        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=nuri147&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="nuri147" height="170em"/>
+	<a href="https://github.com/NewReyy">
+        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=NewReyy&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="NewReyy" height="170em"/>
 		<br>
-        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nuri147&show_icons=true&locale=en&theme=blue-green&include_all_commits=true&count_private=true" alt="nuri147" height="170em"/>
+        	<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NewReyy&show_icons=true&locale=en&theme=blue-green&include_all_commits=true&count_private=true" alt="NewReyy" height="170em"/>
 	</a>
 </p>
 
@@ -19,7 +19,7 @@
 <div align="center">
 	<br/>
 	<a href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=nuri147&theme=blue-green&fire=EBA108" alt="nuri147" />
+	<img src="https://streak-stats.demolab.com?user=NewReyy&theme=blue-green&fire=EBA108" alt="NewReyy" />
 	</a>
 </div>
 
