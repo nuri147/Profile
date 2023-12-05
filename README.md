@@ -1,6 +1,6 @@
 <div align="center">
 	<video width="640" height="360" controls>
-	    <source src="[nama_video.mp4](https://raw.githubusercontent.com/NewReyy/NewReyy/main/VideoProfileNuri.mp4)" type="video/mp4">
+	    <source src="https://raw.githubusercontent.com/NewReyy/NewReyy/main/VideoProfileNuri.mp4" type="video/mp4">
 	</video>
   <h3>Hai👋, I'm Nuri Hidayatuloh</h3>
   <p>I am a student who has an interest and talent in studying programming languages ​​and never feels satisfied with learning. I am currently an active member of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering</a> Apart from that, I am also interested in becoming a Front End Developer and Data Analyst</p>
