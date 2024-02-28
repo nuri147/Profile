@@ -1,7 +1,7 @@
 <div align="center">
 	<img alt="Coding" width="1000" src="PROFILE.gif">
   <h3>Hai👋, I'm Nuri Hidayatuloh</h3>
-  <p>I am a student who has an interest and talent in studying programming languages ​​and never feels satisfied with learning. I am currently an active member of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering</a> Apart from that, I am also interested in becoming a Front End Developer and Data Analyst</p>
+  <p>I am a student who has an interest and talent in studying programming languages ​​and never feels satisfied with learning. I am currently an active member of <a href="https://www.instagram.com/wargalabtif_/?hl=id">Wargalab in the Department of Informatics Engineering</a> Apart from that, I am also interested in becoming a Front End Developer and Data Analyst. I currently studying Data Engineer and Machine Learning too</p>
 </div>
 
 <hr>
@@ -32,7 +32,7 @@
 	<a href="https://github.com/nuri147">
   	<img src="https://profile-counter.glitch.me/nuri147/count.svg" />
 	</a>
-	<p>Nuri hidayatuloh | 2023</p>
+	<p>Nuri Hidayatuloh | 2024</p>
 </div>
 <hr>
 
